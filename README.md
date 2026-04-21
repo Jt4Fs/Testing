@@ -13,3 +13,4 @@ If the computer does not power on, check the following:
 - Ensure the power cord is securely connected.
 - Check if there is power to the outlet by testing with another device.
 - If using a laptop, ensure the battery is charged or the power adapter is functioning properly.
+- END
